@@ -154,3 +154,4 @@ The Crop Management System dataset includes the following features:
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 "# farmers-gateway" 
+"# FarmersGateway" 
